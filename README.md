@@ -7,11 +7,10 @@ This repository is a **listing only** — manuscripts and PDFs are **not** inclu
 
 | Edition | Price | Buy (Stripe on Amber HQ) |
 |---|---:|---|
-| Short | $9.99 | [Buy Short Edition](https://hq.amberoneai.com/store/ebooks/buy?bookId=ebook_starting-a-freelance-business_mt3bjmah&product=short) |
-| Complete | $29.99 | [Buy Complete Edition](https://hq.amberoneai.com/store/ebooks/buy?bookId=ebook_starting-a-freelance-business_mt3bjmah&product=long) |
+| Short | $9.99 | [Buy Short Edition](https://hq.amberoneai.com/store/ebooks?bookId=ebook_starting-a-freelance-business_mt3bjmah&product=short) |
+| Complete | $29.99 | [Buy Complete Edition](https://hq.amberoneai.com/store/ebooks?bookId=ebook_starting-a-freelance-business_mt3bjmah&product=long) |
 
-Full catalog: https://hq.amberoneai.com/store/ebooks  
-If a buy link is still deploying, open the store and select **Freelance Forward: Building a Modern Freelance Business**.
+Or open the full catalog and select **Freelance Forward: Building a Modern Freelance Business**: https://hq.amberoneai.com/store/ebooks
 
 ## About
 
